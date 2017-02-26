@@ -45,7 +45,7 @@ int main()
 
     while(answerWord == false)
     {
-        cout << "What is the word ? " << mixedWord << endl;
+        cout << "What is the word ? " << mysteryMixedWord << endl;
         cin >> answerUser;
 
         if(answerUser == mysteryWord)
